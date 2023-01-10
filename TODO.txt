@@ -1,0 +1,11 @@
+
+OK - completion_cd_rpc doesn't look right. You have mdb emails.
+OK - request_type_sa is blank for all your records.
+OK - satisfaction_rating is missing. I can default to "unoffered"
+OK - status is camelcase but lowercase for me. I'll lcase it.
+OK - updated_at is missing. I can make it the same as created_at.
+OK - requester_mgr is missing.
+OK - Default it, please. priority is missing. I can default it to "normal"
+OK - assignee is missing.
+submitter is missing
+
